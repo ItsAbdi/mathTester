@@ -8,10 +8,10 @@ public class MathTester {
 
 
 
-        firstWord= "dog";
+        firstWord= "fog";
         secondWord="house";
-        firstNumber=5;
-        secondNumber=10;
+        firstNumber=34;
+        secondNumber=80;
         total= firstNumber+secondNumber;
 
         System.out.println(total);
