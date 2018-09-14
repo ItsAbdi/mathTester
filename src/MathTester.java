@@ -8,7 +8,7 @@ public class MathTester {
 
 
 
-        firstWord= "dog";
+        firstWord= "donkey";
         secondWord="house";
 
         firstNumber=34;
