@@ -10,6 +10,7 @@ public class MathTester {
 
         firstWord= "donkey";
         secondWord="house";
+
         firstNumber=34;
         secondNumber=80;
         total= firstNumber+secondNumber;
@@ -20,14 +21,14 @@ public class MathTester {
 
 
 
-        /*System.out.println(firstWord+secondWord);
+        System.out.println(firstWord+secondWord);
         System.out.println(firstWord+(firstNumber+secondNumber));
         System.out.println("firstNumber+secondNumber is "+ (firstNumber+secondNumber));
         System.out.println("firstNumber-secondNumber is "+ (firstNumber-secondNumber));
         System.out.println("firstNumber*secondNumber is "+ (firstNumber*secondNumber));
         System.out.println("secondNumber/firstNumber is "+ (secondNumber/firstNumber));
         System.out.println("The modules of the secondNumber by the firstNumber " +
-                "is "+ (secondNumber%firstNumber));*/
+                "is "+ (secondNumber%firstNumber));
 
 
     }
